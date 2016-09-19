@@ -1,0 +1,8 @@
+<TITLE> (max 15 chars)
+<DESCRIPTION>
+  - <TOPIC>
+  - <LEARNING OBJECTIVES>
+  - <EXPECTED DURATION> 
+  - <AUDIENCE>
+  - <REQUIREMENTS>
+<CONTRIBUTORS> (bullet list of contributors, name and title)

@@ -1,0 +1,7 @@
+This workshop will closely follow the first several videos in the "Coding Playground - Green Series" videos. The videos are designed to be viewed by mentors and teachers.
+
+https://www.youtube.com/watch?v=DmYpNtxVOTI&list=PLRf-PfhVvwFCm4PBI_CcsZlnaYETUY8uN
+
+The project can be downloaded here:
+
+https://github.com/Zulban/coding-playground
